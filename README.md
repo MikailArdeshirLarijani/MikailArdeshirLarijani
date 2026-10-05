@@ -20,7 +20,7 @@
 
 ## 👤 درباره من | About Me
 
-<img align="right" alt="Developer at work" width="340" src="https://raw.githubusercontent.com/MikailArdeshirLarijani/MikailArdeshirLarijani/main/profile.png" style="border-radius: 20px; box-shadow: 0 8px 30px rgba(0,0,0,0.5);"/>
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 من **میکائیل اردشیر** هستم — یه دانش‌آموز رشته تجربی که تقاطع **هوش مصنوعی** و **علوم زیستی** رو به‌عنوان مسیر اصلی زندگیم انتخاب کردم.
 
