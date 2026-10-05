@@ -175,11 +175,27 @@
 
 ## 🧬 Vision & Philosophy
 
-- 🧬 **Genetic Engineering & Bioinformatics** ──► *Decoding the biological source code of life*
-- 🤖 **Advanced Artificial Intelligence** ──► *The multiplier for human intellect, capability, and execution*
-- 💻 **Modern Digital Platforms** ──► *Turning abstract ideas into tangible, impactful reality*
+<table>
+  <tr>
+    <td width="30px" align="center">🧬</td>
+    <td><b>Genetics & Bioinformatics</b></td>
+    <td>Decoding the biological source code of life</td>
+  </tr>
+  <tr>
+    <td align="center">🤖</td>
+    <td><b>Advanced AI Systems</b></td>
+    <td>The force multiplier for human intellect, capability, and speed</td>
+  </tr>
+  <tr>
+    <td align="center">💻</td>
+    <td><b>Modern Digital Platforms</b></td>
+    <td>Turning ambitious ideas into scalable, tangible software solutions</td>
+  </tr>
+</table>
 
-> *"The same relentless curiosity that drives me to architect clean platforms late into the night will tomorrow be applied to untangling complex biological systems and genetic code."*
+<p align="center">
+  <i>"The relentless curiosity that drives me to architect clean platforms late into the night will tomorrow be applied to untangling complex biological systems and genetic code."</i>
+</p>
 
 ---
 
