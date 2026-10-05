@@ -16,13 +16,15 @@
 
 ## ⚡ About Me
 
-<img align="right" alt="Coding GIF" width="370" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 I'm **Mikail Ardeshir** — a high school science student with a deep passion for **genetic engineering**, **artificial intelligence**, and **modern full-stack web development**.
 
 Leveraging cutting-edge AI tools alongside strong technical craft, I architect custom web platforms, next-gen e-commerce experiences, and scalable corporate solutions. I believe true technological breakthrough happens when digital software converges with biology and life sciences.
 
-`	ypescript
+<br/>
+
+```typescript
 const mikail = {
   education: "High School — Experimental Sciences Track (Biology & Chemistry)",
   focus: ["Frontend Architecture", "UI/UX Engineering", "AI Tooling & Automation"],
@@ -35,7 +37,7 @@ const mikail = {
   ],
   status: "Open for ambitious freelance commissions & technical collaborations 💼"
 };
-`
+```
 
 ---
 
@@ -118,12 +120,12 @@ const mikail = {
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=MikailArdeshirLarijani&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikailArdeshirLarijani&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MikailArdeshirLarijani&show_icons=true&theme=radical&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikailArdeshirLarijani&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
 
-<br/>
+<br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MikailArdeshirLarijani&theme=radical&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MikailArdeshirLarijani&theme=react-dark&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -131,17 +133,11 @@ const mikail = {
 
 ## 🧬 Vision & Philosophy
 
-<div align="center">
-
-`
-🧬 Genetic Engineering & Bioinformatics  ──►  Decoding the biological source code of life
-🤖 Advanced Artificial Intelligence      ──►  The multiplier for human intellect and speed
-💻 Modern Digital Platforms              ──►  Turning abstract ideas into tangible reality
-`
+- 🧬 **Genetic Engineering & Bioinformatics** ──► *Decoding the biological source code of life*
+- 🤖 **Advanced Artificial Intelligence** ──► *The multiplier for human intellect, capability, and execution*
+- 💻 **Modern Digital Platforms** ──► *Turning abstract ideas into tangible, impactful reality*
 
 > *"The same relentless curiosity that drives me to architect clean platforms late into the night will tomorrow be applied to untangling complex biological systems and genetic code."*
-
-</div>
 
 ---
 
