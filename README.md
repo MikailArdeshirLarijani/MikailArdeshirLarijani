@@ -157,26 +157,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Analytics
 
 <div align="center">
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=MikailArdeshirLarijani&theme=onedark&no-frame=true&no-bg=true&margin-w=4" width="95%"/>
-</a>
-
-</div>
-
----
-
-## 🐍 Contribution Activity & Stream
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MikailArdeshirLarijani/MikailArdeshirLarijani/main/profile.png" width="0" height="0"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MikailArdeshirLarijani&theme=react-dark&hide_border=true&area=true" width="95%"/>
-
-<br/><br/>
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MikailArdeshirLarijani&show_icons=true&theme=radical&hide_border=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikailArdeshirLarijani&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
@@ -184,7 +167,6 @@
 </div>
 
 ---
-
 ## 🧬 Vision & Philosophy
 
 <table>
