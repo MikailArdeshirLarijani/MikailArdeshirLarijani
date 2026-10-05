@@ -1,87 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mikail%20Ardeshir&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI-Powered%20Developer%20%7C%20Freelancer%20%7C%20Bioscience%20Enthusiast&descAlignY=56&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mikail%20Ardeshir&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Web%20Designer%20%7C%20AI%20Developer%20%7C%20Bioscience%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=High+School+Student+%26+AI+Developer;Designed+Platforms+for+Sharif+Olympiad+Group;Freelance+Web+%26+AI+Platform+Builder;Passionate+about+Genetics+%26+Machine+Learning+%F0%9F%A7%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=High+School+Science+Student+%26+Full-Stack+Builder;Platform+Designer+for+Sharif+Olympiad+Group;Freelance+E-Commerce+%26+Corporate+Websites;Pioneering+at+the+Intersection+of+AI+%26+Genetics+%F0%9F%A7%AC)](https://git.io/typing-svg)
 
 <br/>
 
-[![Email](https://img.shields.io/badge/mikailardeshir%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mikailardeshir@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/MikailArdeshirLarijani?label=Follow&style=flat-square&logo=github)](https://github.com/MikailArdeshirLarijani)
-[![Profile Views](https://komarev.com/ghpvc/?username=MikailArdeshirLarijani&color=ec4899&style=flat-square&label=Profile+Views)](https://github.com/MikailArdeshirLarijani)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mikailardeshir)
+[![Email](https://img.shields.io/badge/Email-mikailardeshir%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikailardeshir@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=MikailArdeshirLarijani&color=ec4899&style=for-the-badge&label=Profile+Views)](https://github.com/MikailArdeshirLarijani)
 
 </div>
 
 ---
 
-## 👤 درباره من | About Me
+## ⚡ درباره من | About Me
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" alt="Coding GIF" width="370" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-من **میکائیل اردشیر** هستم — یه دانش‌آموز رشته تجربی که تقاطع **هوش مصنوعی** و **علوم زیستی** رو به‌عنوان مسیر اصلی زندگیم انتخاب کردم.
+من **میکائیل اردشیر** هستم؛ دانش‌آموز رشته تجربی با اشتیاق عمیق به **مهندسی ژنتیک**، **هوش مصنوعی** و **توسعه وب مدرن**.
 
-با ترکیب ابزارهای پیشرفته هوش مصنوعی و دانش فنی که دارم، **پلتفرم‌ها و وب‌سایت‌های متنوعی** طراحی می‌کنم — از سیستم‌های آموزشی گرفته تا ابزارهای هوشمند.
+با تسلط بر ابزارهای نوین هوش مصنوعی و تخصص در پیاده‌سازی رابط‌های کاربری چشم‌نواز، به طراحی پلتفرم‌های اختصاصی، فروشگاه‌های اینترنتی و وب‌سایت‌های شرکتی می‌پردازم. معتقدم قدرت واقعی زمانی شکل می‌گیرد که فناوری در خدمت زیست‌شناسی و علوم بنیادین قرار گیرد.
 
-**I'm Mikail Ardeshir** — a science track high school student at the intersection of AI and biological sciences. I build real-world products using modern web technologies and AI tooling.
-
-```typescript
+`	ypescript
 const mikail = {
-  age: "High School — Biology & Science Track",
-  location: "Iran 🇮🇷",
-  
-  currentWork: [
-    "mikoO AI Studio — Desktop AI client",
-    "Freelance web & platform projects",
+  education: "High School — Experimental Sciences (Biology/Chemistry)",
+  focus: ["Frontend & UI/UX Design", "Platform Architecture", "AI Automation"],
+  interests: ["Genetics & Bioinformatics 🧬", "Generative AI 🤖", "Digital Products 🚀"],
+  services: [
+    "Corporate & Business Websites (سایت‌های شرکتی)",
+    "Modern E-Commerce Platforms (فروشگاه‌های آنلاین)",
+    "Educational Systems (پلتفرم‌های آموزشی)",
+    "Desktop AI Tools (ابزارهای دسکتاپ)"
   ],
-
-  interests: {
-    tech: ["AI/ML", "Platform Design", "UI/UX"],
-    science: ["Genetics", "Bioinformatics", "Synthetic Biology"],
-  },
-
-  funFact: "I build production-level apps while studying for biology exams 🧬💻"
+  status: "Available for ambitious freelance & collaboration projects 💼"
 };
-```
+`
 
 ---
 
-## 💼 Experience & Resume | سوابق کاری
+## 💼 سوابق و تجربیات حرفه‌ای | Experience & Highlights
 
 <table>
 <tr>
-<td width="50px" align="center">🏛️</td>
+<td width="60px" align="center">🏛️</td>
 <td>
 
+### طراح پلتفرم | گروه آموزشی المپیاد شریف
 **Platform Designer — Sharif Olympiad Educational Group**
-`طراحی پلتفرم آموزشی گروه آموزشی المپیاد شریف`
-
-Designed and developed a comprehensive educational platform for one of Iran's most prestigious olympiad preparation groups — affiliated with Sharif University of Technology. The platform supports course management, student tracking, and interactive learning modules.
+> طراحی و پیاده‌سازی سامانه یکپارچه آموزشی برای یکی از برجسته‌ترین گروه‌های المپیادی کشور (وابسته به دانشگاه صنعتی شریف) شامل بخش‌های مدیریت دوره‌ها، دسترسی دانش‌پژوهان و ارزیابی تحصیلی با رابط کاربری بهینه‌سازی‌شده.
 
 </td>
 </tr>
 <tr>
-<td align="center">💻</td>
+<td width="60px" align="center">🌐</td>
 <td>
 
-**Freelance Developer | Various Projects**
-`کار در پروژه‌های مختلف فریلنسری`
-
-Delivered multiple web and platform projects for clients across various domains — including educational tools, business dashboards, and AI-integrated applications. Specialized in fast delivery with modern UI.
+### توسعه‌دهنده فرانت‌اند و فریلنسر | پروژه‌های وب شرکتی و فروشگاهی
+**Freelance Frontend & Web Developer — Corporate & E-Commerce Projects**
+> اجرای ده‌ها پروژه وب اختصاصی برای کارفرمایان و کسب‌وکارها، شامل طراحی قالب‌های ریسپانسیو، پیاده‌سازی فروشگاه‌های آنلاین مدرن، پنل‌های کاربری اختصاصی، سئو فرانت‌اند و اتصال هوش مصنوعی به جریان‌های کاری آنلاین.
 
 </td>
 </tr>
 <tr>
-<td align="center">🤖</td>
+<td width="60px" align="center">🤖</td>
 <td>
 
-**Creator — mikoO AI Studio**
-`سازنده mikoO AI Studio`
-
-Independently designed and built a full desktop AI application from scratch using Electron, React, and TypeScript — integrating OpenAI and Anthropic APIs with 30+ customization options.
+### خالق و توسعه‌دهنده | استودیوی هوش مصنوعی mikoO
+**Creator & Lead Developer — mikoO AI Studio**
+> خلق یک نرم‌افزار دسکتاپ فوق‌العاده مدرن بر پایه Electron و React برای تعامل پیشرفته با مدل‌های GPT-4o و Claude، مجهز به بیش از ۳۰ قابلیت شخصی‌سازی گرافیکی، ژنراتور تصویر DALL-E 3، تایپ صوتی و مدیریت هوشمند نشست‌ها.
 
 </td>
 </tr>
@@ -89,54 +76,55 @@ Independently designed and built a full desktop AI application from scratch usin
 
 ---
 
-## 🛠️ Tech Stack | مهارت‌ها
+## 🛠️ جعبه ابزار و مهارت‌ها | Tech Stack & Toolkit
 
 <div align="center">
 
-**Frontend & Desktop**
-
+### Frontend & UI/UX
+![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & AI**
-
+### Desktop & Environments
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4o-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### AI Integration & Intelligence
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D4A017?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects | پروژه‌های برجسته
+## 🚀 پروژه‌های شاخص | Featured Repositories
 
 <div align="center">
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🤖 **[mikoO AI Studio](https://github.com/MikailArdeshirLarijani/mikoo)** | Desktop AI client with GPT-4o + Claude. 30+ appearance settings, image generation, voice input | Electron · React · TypeScript |
-| 🏛️ **Sharif Olympiad Platform** | Educational platform for top Iranian olympiad prep group (Sharif University affiliated) | React · Node.js |
-| 🌐 **Freelance Projects** | Various web platforms, dashboards & AI-integrated tools for clients | React · TailwindCSS |
+| پروژه | توضیحات | تکنولوژی‌های کلیدی |
+| :--- | :--- | :--- |
+| 🤖 **[mikoO AI Studio](https://github.com/MikailArdeshirLarijani/mikoo)** | کلاینت دسکتاپ هوش مصنوعی با قابلیت سوییچ مدل، تولید تصویر، و ۳۰ تم بصری | Electron · React · Tailwind · Zustand |
+| 🏛️ **Sharif Olympiad Platform** | سامانه آموزش و مدیریت دانش‌پژوهان المپیادی با معماری ماژولار | React · Modern Web Standards |
+| 🛍️ **Corporate & E-Commerce Web** | پیاده‌سازی فروشگاه‌ها و لندینگ‌های نسل جدید با سرعت بالا و زیبایی بصری | HTML/CSS · JS/TS · TailwindCSS |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats | آمار گیت‌هاب
+## 📊 وضعیت فعالیت و آمار گیت‌هاب | GitHub Analytics
 
 <div align="center">
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=MikailArdeshirLarijani&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikailArdeshirLarijani&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 
-</div>
-
-<div align="center">
+<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=MikailArdeshirLarijani&theme=radical&hide_border=true)
 
@@ -144,40 +132,34 @@ Independently designed and built a full desktop AI application from scratch usin
 
 ---
 
-## 🧬 Beyond Code | فراتر از کد
+## 🧬 افق دید و علایق | The Vision
 
 <div align="center">
 
-```
-🧬 Genetics & Synthetic Biology    →   The code of life
-🤖 Artificial Intelligence         →   The future I'm building
-💡 Platform Design                 →   Ideas made tangible  
-📚 Continuous Learning             →   Every day, something new
-```
+`
+🧬 مهندسی ژنتیک و بیوانفورماتیک  ──►  رمزگشایی از کدهای حیات
+🤖 مدل‌های هوش مصنوعی پیشرفته    ──►  ابزارهای تسریع تفکر و ساخت
+💻 وب و محصول دیجیتال            ──►  تبدیل ایده‌ها به بستر کارآمد برای کاربران
+`
+
+> *«کنجکاوی که شب‌ها به من انگیزه خلق پلتفرم‌های بی‌نقص را می‌دهد، فردا در خدمت گره‌گشایی از ساختارهای زیستی و ژنتیک خواهد بود.»*
 
 </div>
 
-> *"Someday, the same curiosity that makes me debug React components at 2AM*
-> *will help me debug genetic sequences. The tools are different — the mindset isn't."*
-
 ---
 
-## 📫 Contact | ارتباط
+## 📬 راه‌های ارتباطی و همکاری | Get In Touch
 
 <div align="center">
 
+آماده همکاری در پروژه‌های جذاب، توسعه سامانه‌های اختصاصی و ایده‌های نوین:
+
+[![Telegram](https://img.shields.io/badge/Telegram-@mikailardeshir-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mikailardeshir)
 [![Email](https://img.shields.io/badge/Email-mikailardeshir%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikailardeshir@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-mikailardeshir--hub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikailArdeshirLarijani)
+[![GitHub](https://img.shields.io/badge/GitHub-MikailArdeshirLarijani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikailArdeshirLarijani)
 
-</div>
-
----
-
-<div align="center">
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-*"از کلاس علوم تجربی تا طراحی پلتفرم‌های واقعی — مسیر یادگیری هیچ‌وقت تموم نمیشه 🚀"*<br/>
-*"From biology class to building real platforms — the learning never stops."*
 
 </div>
