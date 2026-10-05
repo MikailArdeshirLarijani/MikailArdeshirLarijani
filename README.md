@@ -14,41 +14,40 @@
 
 ---
 
-## ⚡ درباره من | About Me
+## ⚡ About Me
 
 <img align="right" alt="Coding GIF" width="370" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-من **میکائیل اردشیر** هستم؛ دانش‌آموز رشته تجربی با اشتیاق عمیق به **مهندسی ژنتیک**، **هوش مصنوعی** و **توسعه وب مدرن**.
+I'm **Mikail Ardeshir** — a high school science student with a deep passion for **genetic engineering**, **artificial intelligence**, and **modern full-stack web development**.
 
-با تسلط بر ابزارهای نوین هوش مصنوعی و تخصص در پیاده‌سازی رابط‌های کاربری چشم‌نواز، به طراحی پلتفرم‌های اختصاصی، فروشگاه‌های اینترنتی و وب‌سایت‌های شرکتی می‌پردازم. معتقدم قدرت واقعی زمانی شکل می‌گیرد که فناوری در خدمت زیست‌شناسی و علوم بنیادین قرار گیرد.
+Leveraging cutting-edge AI tools alongside strong technical craft, I architect custom web platforms, next-gen e-commerce experiences, and scalable corporate solutions. I believe true technological breakthrough happens when digital software converges with biology and life sciences.
 
 `	ypescript
 const mikail = {
-  education: "High School — Experimental Sciences (Biology/Chemistry)",
-  focus: ["Frontend & UI/UX Design", "Platform Architecture", "AI Automation"],
-  interests: ["Genetics & Bioinformatics 🧬", "Generative AI 🤖", "Digital Products 🚀"],
+  education: "High School — Experimental Sciences Track (Biology & Chemistry)",
+  focus: ["Frontend Architecture", "UI/UX Engineering", "AI Tooling & Automation"],
+  interests: ["Genetics & Bioinformatics 🧬", "Generative AI Systems 🤖", "Digital Products 🚀"],
   services: [
-    "Corporate & Business Websites (سایت‌های شرکتی)",
-    "Modern E-Commerce Platforms (فروشگاه‌های آنلاین)",
-    "Educational Systems (پلتفرم‌های آموزشی)",
-    "Desktop AI Tools (ابزارهای دسکتاپ)"
+    "Corporate & Brand Websites",
+    "High-Conversion Modern E-Commerce Platforms",
+    "Educational Management Systems (LMS)",
+    "Desktop AI Applications"
   ],
-  status: "Available for ambitious freelance & collaboration projects 💼"
+  status: "Open for ambitious freelance commissions & technical collaborations 💼"
 };
 `
 
 ---
 
-## 💼 سوابق و تجربیات حرفه‌ای | Experience & Highlights
+## 💼 Experience & Selected Works
 
 <table>
 <tr>
 <td width="60px" align="center">🏛️</td>
 <td>
 
-### طراح پلتفرم | گروه آموزشی المپیاد شریف
-**Platform Designer — Sharif Olympiad Educational Group**
-> طراحی و پیاده‌سازی سامانه یکپارچه آموزشی برای یکی از برجسته‌ترین گروه‌های المپیادی کشور (وابسته به دانشگاه صنعتی شریف) شامل بخش‌های مدیریت دوره‌ها، دسترسی دانش‌پژوهان و ارزیابی تحصیلی با رابط کاربری بهینه‌سازی‌شده.
+### Platform Designer — Sharif Olympiad Educational Group
+> Architected and engineered an end-to-end educational web platform for one of Iran's premier olympiad training institutions (affiliated with Sharif University of Technology). Delivered intuitive course management portals, interactive student workflows, and an optimized learning experience.
 
 </td>
 </tr>
@@ -56,9 +55,8 @@ const mikail = {
 <td width="60px" align="center">🌐</td>
 <td>
 
-### توسعه‌دهنده فرانت‌اند و فریلنسر | پروژه‌های وب شرکتی و فروشگاهی
-**Freelance Frontend & Web Developer — Corporate & E-Commerce Projects**
-> اجرای ده‌ها پروژه وب اختصاصی برای کارفرمایان و کسب‌وکارها، شامل طراحی قالب‌های ریسپانسیو، پیاده‌سازی فروشگاه‌های آنلاین مدرن، پنل‌های کاربری اختصاصی، سئو فرانت‌اند و اتصال هوش مصنوعی به جریان‌های کاری آنلاین.
+### Freelance Frontend & Web Developer — Corporate & E-Commerce Projects
+> Shipped tailor-made web solutions across diverse industries — delivering high-speed responsive interfaces, bespoke headless storefronts, client dashboards, frontend SEO optimization, and intelligent AI-assisted workflows.
 
 </td>
 </tr>
@@ -66,9 +64,8 @@ const mikail = {
 <td width="60px" align="center">🤖</td>
 <td>
 
-### خالق و توسعه‌دهنده | استودیوی هوش مصنوعی mikoO
-**Creator & Lead Developer — mikoO AI Studio**
-> خلق یک نرم‌افزار دسکتاپ فوق‌العاده مدرن بر پایه Electron و React برای تعامل پیشرفته با مدل‌های GPT-4o و Claude، مجهز به بیش از ۳۰ قابلیت شخصی‌سازی گرافیکی، ژنراتور تصویر DALL-E 3، تایپ صوتی و مدیریت هوشمند نشست‌ها.
+### Creator & Lead Developer — mikoO AI Studio
+> Engineered a premier Electron + React desktop powerhouse tailored for seamless orchestration of state-of-the-art LLMs (OpenAI GPT-4o & Anthropic Claude). Packed with a real-time 30-parameter custom CSS engine, DALL-E 3 image generation, Persian voice dictation, and smart session controls.
 
 </td>
 </tr>
@@ -76,11 +73,11 @@ const mikail = {
 
 ---
 
-## 🛠️ جعبه ابزار و مهارت‌ها | Tech Stack & Toolkit
+## 🛠️ Tech Stack & Toolkit
 
 <div align="center">
 
-### Frontend & UI/UX
+### Frontend & UI/UX Engineering
 ![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -103,21 +100,21 @@ const mikail = {
 
 ---
 
-## 🚀 پروژه‌های شاخص | Featured Repositories
+## 🚀 Featured Projects
 
 <div align="center">
 
-| پروژه | توضیحات | تکنولوژی‌های کلیدی |
+| Project | Description | Core Stack |
 | :--- | :--- | :--- |
-| 🤖 **[mikoO AI Studio](https://github.com/MikailArdeshirLarijani/mikoo)** | کلاینت دسکتاپ هوش مصنوعی با قابلیت سوییچ مدل، تولید تصویر، و ۳۰ تم بصری | Electron · React · Tailwind · Zustand |
-| 🏛️ **Sharif Olympiad Platform** | سامانه آموزش و مدیریت دانش‌پژوهان المپیادی با معماری ماژولار | React · Modern Web Standards |
-| 🛍️ **Corporate & E-Commerce Web** | پیاده‌سازی فروشگاه‌ها و لندینگ‌های نسل جدید با سرعت بالا و زیبایی بصری | HTML/CSS · JS/TS · TailwindCSS |
+| 🤖 **[mikoO AI Studio](https://github.com/MikailArdeshirLarijani/mikoo)** | High-performance AI desktop client with model switching, DALL-E 3 generator, and 30 visual personalization engines | Electron · React · Tailwind · Zustand |
+| 🏛️ **Sharif Olympiad Platform** | Modular educational hub for elite olympiad candidates with student workflows & portal management | React · TypeScript · Modern Web APIs |
+| 🛍️ **Corporate & E-Commerce Web** | Production-ready commercial landing pages and custom store solutions built for peak performance | HTML5 · TailwindCSS · React · Vite |
 
 </div>
 
 ---
 
-## 📊 وضعیت فعالیت و آمار گیت‌هاب | GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -132,27 +129,27 @@ const mikail = {
 
 ---
 
-## 🧬 افق دید و علایق | The Vision
+## 🧬 Vision & Philosophy
 
 <div align="center">
 
 `
-🧬 مهندسی ژنتیک و بیوانفورماتیک  ──►  رمزگشایی از کدهای حیات
-🤖 مدل‌های هوش مصنوعی پیشرفته    ──►  ابزارهای تسریع تفکر و ساخت
-💻 وب و محصول دیجیتال            ──►  تبدیل ایده‌ها به بستر کارآمد برای کاربران
+🧬 Genetic Engineering & Bioinformatics  ──►  Decoding the biological source code of life
+🤖 Advanced Artificial Intelligence      ──►  The multiplier for human intellect and speed
+💻 Modern Digital Platforms              ──►  Turning abstract ideas into tangible reality
 `
 
-> *«کنجکاوی که شب‌ها به من انگیزه خلق پلتفرم‌های بی‌نقص را می‌دهد، فردا در خدمت گره‌گشایی از ساختارهای زیستی و ژنتیک خواهد بود.»*
+> *"The same relentless curiosity that drives me to architect clean platforms late into the night will tomorrow be applied to untangling complex biological systems and genetic code."*
 
 </div>
 
 ---
 
-## 📬 راه‌های ارتباطی و همکاری | Get In Touch
+## 📬 Connect & Collaborate
 
 <div align="center">
 
-آماده همکاری در پروژه‌های جذاب، توسعه سامانه‌های اختصاصی و ایده‌های نوین:
+Always open to discussing high-impact projects, custom platform development, and innovative ideas:
 
 [![Telegram](https://img.shields.io/badge/Telegram-@mikailardeshir-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mikailardeshir)
 [![Email](https://img.shields.io/badge/Email-mikailardeshir%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikailardeshir@gmail.com)
