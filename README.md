@@ -24,20 +24,28 @@ Leveraging cutting-edge AI tools alongside strong technical craft, I architect c
 
 <br/>
 
-```typescript
-const mikail = {
-  education: "High School — Experimental Sciences Track (Biology & Chemistry)",
-  focus: ["Frontend Architecture", "UI/UX Engineering", "AI Tooling & Automation"],
-  interests: ["Genetics & Bioinformatics 🧬", "Generative AI Systems 🤖", "Digital Products 🚀"],
-  services: [
-    "Corporate & Brand Websites",
-    "High-Conversion Modern E-Commerce Platforms",
-    "Educational Management Systems (LMS)",
-    "Desktop AI Applications"
-  ],
-  status: "Open for ambitious freelance commissions & technical collaborations 💼"
-};
-```
+<table>
+  <tr>
+    <td>🎓 <b>Education</b></td>
+    <td>High School — Experimental Sciences (Biology & Chemistry)</td>
+  </tr>
+  <tr>
+    <td>🎯 <b>Focus Areas</b></td>
+    <td>Frontend Architecture · UI/UX Engineering · AI Tooling</td>
+  </tr>
+  <tr>
+    <td>🧬 <b>Passions</b></td>
+    <td>Genetics & Bioinformatics · Generative AI · Digital Products</td>
+  </tr>
+  <tr>
+    <td>💼 <b>Services</b></td>
+    <td>Corporate & Brand Websites · E-Commerce · Custom Platforms</td>
+  </tr>
+  <tr>
+    <td>⚡ <b>Status</b></td>
+    <td>Available for freelance commissions & collaborations</td>
+  </tr>
+</table>
 
 ---
 
