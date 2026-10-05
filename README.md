@@ -16,34 +16,42 @@
 
 ## ⚡ About Me
 
-<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
-
-I'm **Mikail Ardeshir** — a high school science student with a deep passion for **genetic engineering**, **artificial intelligence**, and **modern full-stack web development**.
-
-Leveraging cutting-edge AI tools alongside strong technical craft, I architect custom web platforms, next-gen e-commerce experiences, and scalable corporate solutions. I believe true technological breakthrough happens when digital software converges with biology and life sciences.
-
-<br/>
-
 <table>
   <tr>
-    <td>🎓 <b>Education</b></td>
-    <td>High School — Experimental Sciences (Biology & Chemistry)</td>
-  </tr>
-  <tr>
-    <td>🎯 <b>Focus Areas</b></td>
-    <td>Frontend Architecture · UI/UX Engineering · AI Tooling</td>
-  </tr>
-  <tr>
-    <td>🧬 <b>Passions</b></td>
-    <td>Genetics & Bioinformatics · Generative AI · Digital Products</td>
-  </tr>
-  <tr>
-    <td>💼 <b>Services</b></td>
-    <td>Corporate & Brand Websites · E-Commerce · Custom Platforms</td>
-  </tr>
-  <tr>
-    <td>⚡ <b>Status</b></td>
-    <td>Available for freelance commissions & collaborations</td>
+    <td width="60%" valign="top">
+      <p>
+        I'm <b>Mikail Ardeshir</b> — a high school science student with a deep passion for <b>genetic engineering</b>, <b>artificial intelligence</b>, and <b>modern full-stack web development</b>.
+      </p>
+      <p>
+        Leveraging cutting-edge AI tools alongside strong technical craft, I architect custom web platforms, next-gen e-commerce experiences, and scalable corporate solutions. I believe true technological breakthrough happens when digital software converges with biology and life sciences.
+      </p>
+      <br/>
+      <table>
+        <tr>
+          <td>🎓 <b>Education</b></td>
+          <td>High School — Experimental Sciences (Biology & Chemistry)</td>
+        </tr>
+        <tr>
+          <td>🎯 <b>Focus Areas</b></td>
+          <td>Frontend Architecture · UI/UX Engineering · AI Tooling</td>
+        </tr>
+        <tr>
+          <td>🧬 <b>Passions</b></td>
+          <td>Genetics & Bioinformatics · Generative AI · Digital Products</td>
+        </tr>
+        <tr>
+          <td>💼 <b>Services</b></td>
+          <td>Corporate & Brand Websites · E-Commerce · Custom Platforms</td>
+        </tr>
+        <tr>
+          <td>⚡ <b>Status</b></td>
+          <td>Available for freelance commissions & collaborations</td>
+        </tr>
+      </table>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 12px;"/>
+    </td>
   </tr>
 </table>
 
@@ -103,7 +111,7 @@ Leveraging cutting-edge AI tools alongside strong technical craft, I architect c
 
 ### AI Integration & Intelligence
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D4A017?style=for-the-badge&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D4A017?style=for-the-badge&logo=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </div>
