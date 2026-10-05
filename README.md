@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mikail%20Ardeshir&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Web%20Designer%20%7C%20AI%20Developer%20%7C%20Bioscience%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mikail%20Ardeshir&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Web%20Architect%20%7C%20AI%20Developer%20%7C%20Bioscience%20Enthusiast&descAlignY=58&descSize=17" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=High+School+Science+Student+%26+Full-Stack+Builder;Platform+Designer+for+Sharif+Olympiad+Group;Freelance+E-Commerce+%26+Corporate+Websites;Pioneering+at+the+Intersection+of+AI+%26+Genetics+%F0%9F%A7%AC)](https://git.io/typing-svg)
 
@@ -57,6 +57,18 @@
 
 ---
 
+## 🔭 Current Focus & Working On
+
+```yaml
+🔭 Currently Working On: Scaling mikoO AI Studio with new extensions & prompt workflows
+🌱 Currently Learning: Bioinformatics data pipelines & gene sequence alignment algorithms
+💬 Ask Me About: Modern React/Next architecture, UI micro-interactions, TailwindCSS, & AI integration
+⚡ Fun Fact: Debugging full-stack code at 2 AM while memorizing cellular biology cycles
+📫 Open For: Freelance commissions, custom web platforms, and visionary tech collaborations
+```
+
+---
+
 ## 💼 Experience & Selected Works
 
 <table>
@@ -95,24 +107,17 @@
 
 <div align="center">
 
-### Frontend & UI/UX Engineering
-![React](https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,electron,vite,nodejs,python,git,vscode&perline=6&theme=dark" />
+  </a>
+</p>
 
-### Desktop & Environments
-![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<br/>
 
-### AI Integration & Intelligence
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D4A017?style=for-the-badge&logo=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com)
+[![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D4A017?style=for-the-badge&logo=white)](https://anthropic.com)
+[![Zustand](https://img.shields.io/badge/Zustand_State-443e38?style=for-the-badge&logo=react&logoColor=white)](https://github.com/pmndrs/zustand)
 
 </div>
 
@@ -132,16 +137,17 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🐍 Contribution Activity & Stream
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MikailArdeshirLarijani&show_icons=true&theme=radical&hide_border=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikailArdeshirLarijani&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
+<img src="https://raw.githubusercontent.com/MikailArdeshirLarijani/MikailArdeshirLarijani/main/profile.png" width="0" height="0"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MikailArdeshirLarijani&theme=react-dark&hide_border=true&area=true" width="95%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MikailArdeshirLarijani&theme=react-dark&hide_border=true&area=true" width="95%"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=MikailArdeshirLarijani&show_icons=true&theme=radical&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikailArdeshirLarijani&layout=compact&langs_count=6&theme=radical&hide_border=true"/>
 
 </div>
 
