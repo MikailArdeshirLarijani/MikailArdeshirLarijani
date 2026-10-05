@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mikailardeshir)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact_Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MKL_AR)
 [![Email](https://img.shields.io/badge/Email-mikailardeshir%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikailardeshir@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=MikailArdeshirLarijani&color=ec4899&style=for-the-badge&label=Profile+Views)](https://github.com/MikailArdeshirLarijani)
 
@@ -59,13 +59,33 @@
 
 ## 🔭 Current Focus & Working On
 
-```yaml
-🔭 Currently Working On: Scaling mikoO AI Studio with new extensions & prompt workflows
-🌱 Currently Learning: Bioinformatics data pipelines & gene sequence alignment algorithms
-💬 Ask Me About: Modern React/Next architecture, UI micro-interactions, TailwindCSS, & AI integration
-⚡ Fun Fact: Debugging full-stack code at 2 AM while memorizing cellular biology cycles
-📫 Open For: Freelance commissions, custom web platforms, and visionary tech collaborations
-```
+<table>
+  <tr>
+    <td width="30px" align="center">🔭</td>
+    <td><b>Currently Working On</b></td>
+    <td>Scaling <b>mikoO AI Studio</b> with new tool integrations & prompt pipelines</td>
+  </tr>
+  <tr>
+    <td align="center">🌱</td>
+    <td><b>Currently Learning</b></td>
+    <td>Bioinformatics workflows & gene sequence alignment algorithms</td>
+  </tr>
+  <tr>
+    <td align="center">💬</td>
+    <td><b>Ask Me About</b></td>
+    <td>Modern React architecture, UI micro-interactions, TailwindCSS & AI APIs</td>
+  </tr>
+  <tr>
+    <td align="center">⚡</td>
+    <td><b>Fun Fact</b></td>
+    <td>Writing full-stack code at 2 AM while studying cellular biology cycles</td>
+  </tr>
+  <tr>
+    <td align="center">📫</td>
+    <td><b>Open For</b></td>
+    <td>Freelance commissions, custom web platforms & ambitious tech collaborations</td>
+  </tr>
+</table>
 
 ---
 
@@ -169,7 +189,7 @@
 
 Always open to discussing high-impact projects, custom platform development, and innovative ideas:
 
-[![Telegram](https://img.shields.io/badge/Telegram-@mikailardeshir-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mikailardeshir)
+[![Telegram](https://img.shields.io/badge/Telegram-@MKL_AR-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MKL_AR)
 [![Email](https://img.shields.io/badge/Email-mikailardeshir%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mikailardeshir@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-MikailArdeshirLarijani-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MikailArdeshirLarijani)
 
