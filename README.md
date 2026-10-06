@@ -23,7 +23,7 @@
         I'm <b>Mikail Ardeshir</b> — a high school science student with a deep passion for <b>genetic engineering</b>, <b>artificial intelligence</b>, and <b>modern full-stack web development</b>.
       </p>
       <p>
-        Leveraging cutting-edge AI tools alongside strong technical craft, I architect custom web platforms, next-gen e-commerce experiences, and scalable corporate solutions. I believe true technological breakthrough happens when digital software converges with biology and life sciences.
+        Leveraging cutting-edge AI tools alongside strong technical craft, I design modern websites and platforms, next-gen e-commerce experiences, and scalable corporate solutions. I believe true technological breakthrough happens when digital software converges with biology and life sciences.
       </p>
       <br/>
       <table>
@@ -97,7 +97,7 @@
 <td>
 
 ### Platform Designer — Sharif Olympiad Educational Group
-> Architected and engineered an end-to-end educational web platform for one of Iran's premier olympiad training institutions (affiliated with Sharif University of Technology). Delivered intuitive course management portals, interactive student workflows, and an optimized learning experience.
+> Designed and developed an end-to-end educational web platform for one of Iran's premier olympiad training institutions (affiliated with Sharif University of Technology). Delivered intuitive course management portals, interactive student workflows, and an optimized learning experience.
 
 </td>
 </tr>
