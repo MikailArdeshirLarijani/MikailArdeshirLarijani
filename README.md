@@ -37,7 +37,7 @@
         </tr>
         <tr>
           <td>🧬 <b>Passions</b></td>
-          <td>Genetics & Bioinformatics · Generative AI · Digital Products</td>
+          <td>Genetics · Generative AI · Digital Products</td>
         </tr>
         <tr>
           <td>💼 <b>Services</b></td>
@@ -68,7 +68,7 @@
   <tr>
     <td align="center">🌱</td>
     <td><b>Currently Learning</b></td>
-    <td>Bioinformatics workflows & gene sequence alignment algorithms</td>
+    <td>Advanced AI workflows & modern platform development</td>
   </tr>
   <tr>
     <td align="center">💬</td>
@@ -172,7 +172,7 @@
 <table>
   <tr>
     <td width="30px" align="center">🧬</td>
-    <td><b>Genetics & Bioinformatics</b></td>
+    <td><b>Genetics</b></td>
     <td>Decoding the biological source code of life</td>
   </tr>
   <tr>
